@@ -1,20 +1,16 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=E4F700&center=true&vCenter=true&random=true&width=435&lines=Hello+I'm+TuanAnh;Developer+%26%26+Network+security;Contributed+to+100+%2B+servers;3+%2B+years+of+coding+experience" alt="Typing SVG" /></a>
     </p>
-    <h1 align="center">HEllO, I'm Tuấn Anh</h1>
-    <h3 align="center">I am a FontEnd Developer From Vietnam</h3>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadokine&label=Profile%20views&color=0e75b6&style=flat" alt="hadokine" /> </p>
+<h1 align="center">HEllO, I'm Tuấn Anh</h1>
+<h3 align="center">I am a FontEnd Developer From Vietnam</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadokine&label=Profile%20views&color=0e75b6&style=flat" alt="hadokine" /> </p>
     
     - 🌱 I’m currently learning **UIT**
     
     - 💬 Ask me about **WEB, Python, Javascript**
     
     - 📫 How to reach me **ptuananh7787@gmail.com**
-    
-    ### Blogs posts
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
