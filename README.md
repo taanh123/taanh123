@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=E4F700&center=true&vCenter=true&random=true&width=435&lines=Hello+I'm+Duykhai;Developer+%26%26+Network+security;Contributed+to+100+%2B+servers;3+%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=E4F700&center=true&vCenter=true&random=true&width=435&lines=Hello+I'm+TuanAnh;Developer+%26%26+Network+security;Contributed+to+100+%2B+servers;3+%2B+years+of+coding+experience" alt="Typing SVG" /></a>
     </p>
     <h1 align="center">HEllO, I'm Tuấn Anh</h1>
     <h3 align="center">I am a FontEnd Developer From Vietnam</h3>
@@ -16,14 +16,14 @@
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
     
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-    <a href="https://www.facebook.com/tuananh.pham.46937/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/tanh.url/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-    </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/tuananh.pham.46937/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tanh.url/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
     
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -60,18 +60,18 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    </p>
+</p>
     
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="" /></p>
 
-    <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taanh123&theme=dark&hide_border=false" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taanh123&theme=dark&hide_border=false" alt="" /></p>
 
-    <p><img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /></p>
+<p><img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /></p>
 
-    ## Thanks for reading ❤️
+## Thanks for reading ❤️
     
-    ![:aikocount](https://count.getloli.com/get/@khaiCybersec?theme=rule34)
-    ## Commits
+![:aikocount](https://count.getloli.com/get/@khaiCybersec?theme=rule34)
+## Commits
     
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
     
