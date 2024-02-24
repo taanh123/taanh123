@@ -86,11 +86,12 @@
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taanh123&show_icons=true&locale=en&layout=compact" alt="khaicybersec" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taanh123&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taanh123&theme=dark&hide_border=false" alt="" /></p>
 
 <p><img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /></p>
+
 
 ## Thanks for reading ❤️
     
