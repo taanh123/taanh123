@@ -91,11 +91,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taanh123&theme=dark&hide_border=false" alt="" /></p>
 
 <p><img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=taanh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /></p>
-
-
-## Thanks for reading ❤️
     
 ![:aikocount](https://count.getloli.com/get/@khaiCybersec?theme=rule34)
 ## Commits
+## Thanks for reading ❤️
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
